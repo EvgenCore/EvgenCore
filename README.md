@@ -28,6 +28,7 @@ I am currently continuing to gain knowledge and develop websites.</p>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="vite logo"  />
 </div>
 
 
