@@ -12,6 +12,9 @@
 In early 2024, I enrolled in the Frontend Web Developer course from CodeOp and successfully completed it. This course provided a deeper dive into creating advanced web applications using Vue.js.
 I am currently continuing to gain knowledge and develop websites.</p>
 
+Feel free to connect with me here:
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/evgenii-igoshin-0813182bb/)](https://www.linkedin.com/in/evgenii-igoshin-0813182bb/)
+
 ###
 
 <h3 align="left">🛠 Technologies : </h3>
@@ -39,9 +42,7 @@ I am currently continuing to gain knowledge and develop websites.</p>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 
 
