@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Evgenii !</h1>
-
-<h2 align="center">Frontend developer</h2>
+<h1 align="center">Frontend developer</h1>
 
 ###
 
@@ -12,19 +11,8 @@
 In early 2024, I enrolled in the Frontend Web Developer course from CodeOp and successfully completed it. This course provided a deeper dive into creating advanced web applications using Vue.js.
 I am currently continuing to gain knowledge and develop websites.</p>
 
-Feel free to connect with me here:
-
-
-
-[![Evgenii Igoshin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://github.com/EvgenCore)
-<img width="12" />
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-blue?style=flat-square&logo=gmail&logoColor=red&labelColor=3A3B3C&color=red)](johnshin378@gmail.com)
-
-
-
-
-
 ###
+
 
 <h3 align="left">🛠 Technologies : </h3>
 
@@ -48,6 +36,17 @@ Feel free to connect with me here:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+
+###
+
+<h3 align="left">💬 Feel free to connect with me here : </h3>
+
+
+
+[![Evgenii Igoshin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://github.com/EvgenCore)
+<img width="12" />
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-blue?style=flat-square&logo=gmail&logoColor=red&labelColor=3A3B3C&color=red)](johnshin378@gmail.com)
+
 
 ###
 
