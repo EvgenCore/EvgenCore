@@ -15,7 +15,7 @@ I am currently continuing to gain knowledge and develop websites.</p>
 Feel free to connect with me here:
 
 <p>
-  <a href="https://github.com/EvgenCore" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://github.com/EvgenCore" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@evgen-core-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
 
 ###
