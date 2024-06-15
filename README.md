@@ -45,7 +45,7 @@ I am currently continuing to gain knowledge and develop websites.</p>
 
 [![Evgenii Igoshin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgenii-igoshin-0813182bb/)
 <img width="12" />
-![Gmail Badge](https://img.shields.io/badge/email-johnshin378@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/email-johnshin378@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:johnshin378@gmail.com)
 
 
 
