@@ -26,10 +26,16 @@ I am currently continuing to gain knowledge and develop websites.</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="vite logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  
 </div>
 
 
