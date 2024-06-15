@@ -13,7 +13,7 @@ In early 2024, I enrolled in the Frontend Web Developer course from CodeOp and s
 I am currently continuing to gain knowledge and develop websites.</p>
 
 Feel free to connect with me here:
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/evgenii-igoshin-0813182bb/)](https://www.linkedin.com/in/evgenii-igoshin-0813182bb/)
+[![Linkedin Badge](https://img.shields.io/badge/-evgenii-igoshin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/evgenii-igoshin-0813182bb/)](https://www.linkedin.com/in/evgenii-igoshin-0813182bb/)
 
 ###
 
